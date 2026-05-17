@@ -1,5 +1,5 @@
 # UG-MESNet
-High-resolution images are available at the link below: 
+Additional documents will be provided subsequently. High-resolution images are available at the link below: 
 
 fig1: https://drive.google.com/file/d/1WW96Mh_yHaxAF6sOSfydB2nAl92Hh2LF/view?usp=drive_link
 
