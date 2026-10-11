@@ -1,5 +1,6 @@
 # UG-MESNet
-Additional documents will be provided subsequently. High-resolution images are available at the link below: 
+High-resolution experimental figures are currently available at GitHub. 
+The code and accompanying documentation are being prepared for public release and will be added to the same repository once the updates associated with the manuscript revisions are complete.
 
 fig1: https://drive.google.com/file/d/1WW96Mh_yHaxAF6sOSfydB2nAl92Hh2LF/view?usp=drive_link
 
@@ -26,3 +27,5 @@ fig11: https://drive.google.com/file/d/1DhZZuDZ7XyeuAd87fo6ROZH5_dcUs9NT/view?us
 fig12: https://drive.google.com/file/d/1T-dlNoUulS0lxWmXjyQRAAkD4L0vCyq6/view?usp=drive_link
 
 fig13: https://drive.google.com/file/d/14J0KYWveK0QtLfCEXhImkp6r10YK9OL8/view?usp=drive_link
+
+fig14: https://drive.google.com/file/d/1kGTj5LSwVfzE_SJxvxcsjStDqh5AbWe0/view?usp=drive_link
